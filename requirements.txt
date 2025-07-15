@@ -1,0 +1,6 @@
+psycopg2-binary==2.9.9
+crate[sqlalchemy]==0.31.0
+python-dotenv==1.0.1
+matplotlib==3.8.4
+pytz==2024.1
+pandas==2.2.2
